@@ -21,5 +21,5 @@ Looked at:
         - cons.price.idx
         - euribor3m
         - date
-#### Dublipates
-    No duplicate found in the
+
+Those categorical columns whose null % is less than 10% I've decided to put as unknown instead of Nan
